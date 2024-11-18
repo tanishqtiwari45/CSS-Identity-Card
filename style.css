@@ -1,0 +1,150 @@
+*{
+   background-color: rgb(205, 204, 204);
+ 
+}
+
+.container_1{
+    background-color: whitesmoke;
+    border: 3px solid transparent;
+    border-radius: 30px;
+    width:305px;
+    height:465px;
+    position: relative;
+    margin-left: 375px;
+    margin-top: 125px;
+    box-shadow:-10px 20px 10px rgb(129, 129, 129);
+   
+   
+   
+}
+.first{
+   background-color: white;
+    width: 280px ;
+    height:400px;
+    margin-top: 21px;
+    margin-left: 12px;
+}
+
+
+.container_2{
+    background-color: whitesmoke;
+    border: 3px solid transparent;
+    border-radius: 30px;
+    width:305px;
+    height:465px;
+    position: relative;
+    margin-left: 120px;
+    margin-top: 125px;
+    box-shadow:10px 20px 10px rgb(129, 129, 129);
+   
+}
+
+
+.second{
+   background-color: white;
+    width: 280px ;
+    height:400px;
+    margin-top: 21px;
+    margin-left: 12px;
+
+ }
+
+
+.first_half {
+    position: absolute;
+    left: 12px;
+    width: 280px;
+    height: 130px;
+    background-color: #ff1643;
+ }
+
+
+ 
+  .second_half {
+    position: absolute;
+    left: 12px;
+    top:141px;
+    width: 280px;
+    height: 12px;
+    background-color:rgb(253, 244, 0);
+  
+  }
+
+  .third_half {
+    position: absolute;
+    left: 12px;
+    top:405px;
+    width: 280px;
+    height: 25px;
+    background-color:rgb(253, 244, 0);
+  
+  }
+
+  .logo{
+    border: 2px solid transparent;
+    width: 115px;
+    height: 115px;
+    border-radius:65px;
+    position: absolute  ;
+    right: 85px;
+    top: 1px;
+
+    background-color: #ff3d3a;
+    
+    
+  }
+  .para{
+    height: 120px;
+    width: 200px;
+    background-color: white;
+    color: black;
+    margin-top: 10%;
+    margin-left: 15%;
+    text-align:center;
+   
+    
+  }
+  .line{
+    width: 150px;
+    height: 2px;
+    margin-left: 25%;
+    background-color: black;
+    margin-top: 17%;
+  }
+  .t_1{
+    width: 30px;
+    height: 65px;
+    background-color: #ff1643 ;
+
+  }
+  .t_2{
+    width: 30px;
+    height: 65px;
+    background-color: #ff1643;
+    position: absolute;
+    left: 250px;
+
+  }
+  .contact{
+    width: 200px ;
+    height: 65px;
+    background-color: white;
+    margin-left:20px ;
+    font-size: 13px;
+  }
+  b{
+    background-color: white;
+  }
+  
+
+  .third_1{
+    background-color: #ffab00;
+    width: 100px;
+    height: 25px;
+  }
+
+  .third_2{
+    background-color: #ffc303;
+    width: 100px;
+    height: 25px;
+  }

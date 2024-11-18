@@ -1,0 +1,47 @@
+*{
+    background-color: rgb(226, 77, 52);
+}
+.main{
+    width: 500px;
+    height: 375px;
+    border: 2px solid white;
+    margin-left: 32%;
+    margin-top: 12%;    
+    border-radius: 15px;
+    background-color: #e0614c;
+}
+.upper{
+    width: 495px;
+    height: 45px ;
+    
+    margin-left: 1px;
+    border-radius:10px ;
+    display: flex;
+    background-color: #e0614c;
+}
+.dot{
+    width: 15px;
+    height: 15px;
+    border: 2px solid white;
+    margin-left: 125px;
+    margin-top: 13px;
+    border-radius: 50px;    
+}
+.notch{
+    width: 55px;
+    height: 15px;
+    border: 2px solid white;
+    border-radius: 15px;
+    margin-left: 56px;
+    margin-top: 12px;
+}
+
+.circle{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    border: 2px solid white;
+    background-color: #de711f;
+   
+
+}
