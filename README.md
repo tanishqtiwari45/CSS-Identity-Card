@@ -19,7 +19,7 @@ Clone the Repository
 1. In git bash, Copy code
 
 ```
-git clone https://github.com/yourusername/identity-card-creator.git
+git clone https://github.com/tanishqtiwari45/CSS-Identity-Card.git
 
 ```
 
